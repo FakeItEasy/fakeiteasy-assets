@@ -1,0 +1,35 @@
+/*
+Can be referenced from the "classy" SVG logos.
+Provides the ability to customize colors (for example for dark mode
+or in case monochromatic version of the logo is required.
+If the original colors are used, there's no benefit of using this over
+the non-classy SVGs.
+*/
+
+.fie-logo-f {
+    fill: #2C444E;
+}
+
+.fie-logo-a {
+    fill: #64545E;
+}
+
+.fie-logo-k {
+    fill: #838D61;
+}
+
+.fie-logo-e {
+    fill: #597887;
+}
+
+.fie-logo-i {
+    fill: #89622F;
+}
+
+.fie-logo-t {
+    fill: #C9B776;
+}
+
+.fie-logo-easy {
+    fill: #2C444E;
+}
